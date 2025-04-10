@@ -1,6 +1,7 @@
 # Install dependencies
-
+```
 npm install
+```
 
 # Dev Setup
 
